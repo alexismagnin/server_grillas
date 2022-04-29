@@ -1,4 +1,5 @@
-[
+{ "clientes": 
+ [
   {
     "clipos_id": 12967,
     "cli_id": 7482,
@@ -900,3 +901,4 @@
     "tipo_operacion": "Modificación"
   }
 ]
+}
